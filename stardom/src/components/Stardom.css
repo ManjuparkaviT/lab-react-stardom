@@ -1,0 +1,46 @@
+.body{
+    background-color: blueviolet;
+}
+.image{
+    width: 100px;
+    height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+td{
+    text-align: center;
+}
+.table , tr ,th , td{
+    width: 700px;
+    background-color: white;
+    border: 2px solid lightgrey;
+    border-radius: 10px;
+    border-collapse: collapse;
+}
+
+.delete{
+    background-color: red;
+    border-radius: 2px;
+    border : 2px solid red;
+}
+
+h1{
+    font-weight:400;
+}
+.addstar{
+    background-color: blue;
+    color: white;
+}
+
+.sortbyname{
+    background-color: rgb(49, 46, 46);
+    color: white;
+}
+
+.sortbypopularity{
+    background-color: rgb(44, 170, 92);
+    color: white;
+}
